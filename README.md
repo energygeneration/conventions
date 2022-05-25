@@ -13,6 +13,7 @@ Le nom des projets ou des fichiers ne doivent pas voir :
    - Des espaces ou des caracteres qui ne sont pas alphanumérique : & / + > : ? % ( ] etc.
    - Mieux vaut eviter d'utiliser des lettres majuscules, certains systèmes d'exploitation pouvant être sensibles à la casse des lettres. 
    - Mieux vaut utiliser un tiret (-) ou une barre de soulignement (_)
+   - Ex: Pour le Brief Projet => birante_sy_bp_2
    
     nom_du_projet ou nom-du-projet
     ├── fonts                 # Contient les polices.
@@ -21,7 +22,7 @@ Le nom des projets ou des fichiers ne doivent pas voir :
     ├── images                # Contient les fichiers images.
     ├── docs                  # Contient la documentation du projet.
     ├── index.html            # le fichier pricipal du projet.
-    └── README.md
+    └── README.md             # le fichier ou vous expliquer votre project.
     
 
 ## Style Guides
