@@ -15,6 +15,8 @@
     ├── docs                  # Contient la documentation du projet.
     ├── index.html            # le fichier pricipal du projet.
     └── README.md
+    
+    Google Style Guides HTML / CSS: https://google.github.io/styleguide/htmlcssguide.html
 
 
 ## Contact
