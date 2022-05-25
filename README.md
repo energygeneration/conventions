@@ -14,7 +14,7 @@ Le nom des projets ou des fichiers ne doivent pas voir :
    - Mieux vaut eviter d'utiliser des lettres majuscules, certains systèmes d'exploitation pouvant être sensibles à la casse des lettres. 
    - Mieux vaut utiliser un tiret (-) ou une barre de soulignement (_)
    
-    NOM_DU_PROJET
+    nom_du_projet ou nom-du-projet
     ├── fonts                 # Contient les polices.
     ├── css                   # Contient les fichiers css.
     ├── js                    # Contient les fichiers js.
