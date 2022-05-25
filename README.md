@@ -3,7 +3,7 @@
 
 ## Table des matières
 * [HTML](#html)
-* [STYLE GUIDE](#style-guide)
+* [Style Guides](#style-guides)
 * [Contact](#contact)
 
 
@@ -19,7 +19,7 @@
     └── README.md
     
 
-## Google Style Guides
+## Style Guides
 
     https://google.github.io/styleguide/
 
