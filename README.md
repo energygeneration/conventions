@@ -6,6 +6,6 @@
    - Certains vont même jusqu'à conseiller d'éviter d'utiliser des lettres majuscules, certains systèmes d'exploitation pouvant être sensibles à la casse des lettres.
 
 
-Nommage des Briefs Projects
+Nommage des Dossiers Briefs Projects
 
 Ex: birante_sy_bp_1
