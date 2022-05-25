@@ -3,10 +3,12 @@
 
 ## Table des matières
 * [HTML](#html)
+* [STYLE GUIDE](#style-guide)
 * [Contact](#contact)
 
 
 ## HTML
+
     NOM_DU_PROJET
     ├── fonts                 # Contient les polices.
     ├── css                   # Contient les fichiers css.
@@ -16,8 +18,10 @@
     ├── index.html            # le fichier pricipal du projet.
     └── README.md
     
-    Google Style Guides HTML / CSS: https://google.github.io/styleguide/htmlcssguide.html
 
+## Google Style Guides
+
+    https://google.github.io/styleguide/
 
 ## Contact
 Créé par [@birante](https://twitter.com/sybirante) - n'hésitez pas à me contacter !
