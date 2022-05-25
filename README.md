@@ -1,11 +1,21 @@
-# Les règles à suivre
+# Règles à suivre
+> Ceci est un petit guide qui vous permettra de mieux organiser vos projets.
 
-   - De remplacer les espaces dans les noms de fichiers ou de dossiers par un tiret (-) ou une barre de soulignement (_)
-   - Il vaut mieux bannir tout ce qui n’est pas alphanumérique : & / + > : ? % ( ] etc. dans les noms de dossiers ou fichiers
-   - D'éviter de mettre des caractères accentués dans les noms de fichiers ou de dossiers
-   - Certains vont même jusqu'à conseiller d'éviter d'utiliser des lettres majuscules, certains systèmes d'exploitation pouvant être sensibles à la casse des lettres.
+## Table des matières
+* [HTML](#html)
+* [Contact](#contact)
 
 
-Nommage des Dossiers Briefs Projects
+## HTML
+    NOM_DU_PROJET
+    ├── fonts                 # Contient les polices.
+    ├── css                   # Contient les fichiers css.
+    ├── js                    # Contient les fichiers js.
+    ├── images                # Contient les fichiers images.
+    ├── docs                  # Contient la documentation du projet.
+    ├── index.html            # le fichier pricipal du projet.
+    └── README.md
 
-Ex: birante_sy_bp_1
+
+## Contact
+Créé par [@birante](https://twitter.com/sybirante) - n'hésitez pas à me contacter !
